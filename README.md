@@ -69,9 +69,6 @@ If any item in the cart can't be reserved, the whole transaction rolls back. Qua
 - Heart-shaped faces are currently classified as oval
 - Booking uses a check-then-insert for overlapping slots; it should use the same atomic approach as checkout
 
-## Team
-
-Ronald Baaklini, Nicolas Zakkak, Karl Al Chikhani, Hussein Hojeij
 
 ## Source Code
 
